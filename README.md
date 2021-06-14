@@ -59,28 +59,28 @@ border-radius: 50px;
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
-      <img style = "float:left; margin : 5px;" src="images/1.png" class="card-img-top" alt="...">
+      <img style = "float:left; margin : 2px;" src="images/1.png" class="card-img-top" alt="...">
       <div class="card-body">
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img style = "float:left; margin : 5px;" src="images/2.png" class="card-img-top" alt="...">
+      <img style = "float:left; margin : 2px;" src="images/2.png" class="card-img-top" alt="...">
       <div class="card-body">
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img style = "float:left; margin : 5px;" src="images/3.png" class="card-img-top" alt="...">
+      <img style = "float:left; margin : 2px;" src="images/3.png" class="card-img-top" alt="...">
       <div class="card-body">
       </div>
     </div>
   </div>
   <div class="col">
     <div class="card">
-      <img style = "float:left; margin : 5px;" src="images/4.png" class="card-img-top" alt="...">
+      <img style = "float:left; margin : 2px;" src="images/4.png" class="card-img-top" alt="...">
       <div class="card-body">
       </div>
     </div>
@@ -93,7 +93,7 @@ border-radius: 50px;
     </div>
   </div>
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>><br><br><br>
 <h2 style = "font-family:courier,arial,helvetica;">C. Middleware Ödevi </h2>
 <p> Bu ödevin çalışması tamamlanınca yüklenecektir.
 </p
