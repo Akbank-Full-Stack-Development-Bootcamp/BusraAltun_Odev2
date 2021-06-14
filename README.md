@@ -93,7 +93,7 @@ border-radius: 50px;
     </div>
   </div>
 </div>
-<br><br><br><br><br><br>><br><br><br>
+<br>
 <h2 style = "font-family:courier,arial,helvetica;">C. Middleware Ödevi </h2>
 <p> Bu ödevin çalışması tamamlanınca yüklenecektir.
 </p
