@@ -56,11 +56,11 @@ border-radius: 50px;
  </a>
  </div>
 <p> PoC tan kısaca bahsettiğim ve verilen ödev üzerine uygulamaya çalıştığım PoC çalışması </p> <br><br>
-      <img style = " width:150px; height:150px;float : left; margin: 5px;" src="images/1.png" class="card-img-top" alt="PoC-1">
-      <img style = "width:150px; height:150px; margin:5px; float:left;" src="images/2.png" class="card-img-top" alt="PoC-2">
-  <img  style = " width:150px; height:150px; float : left; margin:5px;" src="images/3.png" class="card-img-top" alt="PoC-3">
-  <img  style = " width:150px; height:150px; float:left; margin:5px;" src="images/4.png" class="card-img-top" alt="PoC-4">
-      <img  style = " width:150px; height:150px; margin-left:35%;" src="images/5.png" class="card-img-top" alt="PoC-5">
+      <img style = " width:150px; height:150px;float : left; margin: 5px;" src="images/1.png" alt="PoC-1">
+      <img style = "width:150px; height:150px; margin:5px; float:left;" src="images/2.png"  alt="PoC-2">
+  <img  style = " width:150px; height:150px; float : left; margin:5px;" src="images/3.png"  alt="PoC-3">
+  <img  style = " width:150px; height:150px; float:left; margin:5px;" src="images/4.png"  alt="PoC-4">
+      <img  style = " width:150px; height:150px; margin-left:35%;" src="images/5.png" alt="PoC-5">
 
 
 <h2 style = "font-family:courier,arial,helvetica;">C. Middleware Ödevi </h2>
