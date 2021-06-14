@@ -56,47 +56,11 @@ border-radius: 50px;
  </a>
  </div>
 <p> PoC tan kısaca bahsettiğim ve verilen ödev üzerine uygulamaya çalıştığım PoC çalışması </p> <br><br>
-
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="card">
       <img style = " width:230px; height:230px;float : left; margin: 5px;" src="images/1.png" class="card-img-top" alt="PoC-1">
-      <div class="card-body">
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card">
       <img style = "width:230px; height:230px; margin:5px; float:left;" src="images/2.png" class="card-img-top" alt="PoC-2">
-      <div class="card-body">
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card">
-      <img  style = " width:230px; height:230px; float : left; margin:5px;" src="images/3.png" class="card-img-top" alt="PoC-3">
-      <div class="card-body">
-      </div>
-    </div>
-  </div>
-
-  <div class="col">
-    <div class="card">
-      <img  style = " width:230px; height:230px; float:left; margin:5px;" src="images/4.png" class="card-img-top" alt="PoC-4">
-      <div class="card-body">
-      </div>
-    </div>
-  </div>
-    <div class="col">
-    <div class="card">
+  <img  style = " width:230px; height:230px; float : left; margin:5px;" src="images/3.png" class="card-img-top" alt="PoC-3">
+  <img  style = " width:230px; height:230px; float:left; margin:5px;" src="images/4.png" class="card-img-top" alt="PoC-4">
       <img  style = " width:230px; height:230px; margin-left:35%;" src="images/5.png" class="card-img-top" alt="PoC-5">
-      <div class="card-body">
-      </div>
-    </div>
-  </div>
-</div>
 
 
 <h2 style = "font-family:courier,arial,helvetica;">C. Middleware Ödevi </h2>
