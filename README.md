@@ -56,11 +56,11 @@ border-radius: 50px;
  </a>
  </div>
 <p> PoC tan kısaca bahsettiğim ve verilen ödev üzerine uygulamaya çalıştığım PoC çalışması </p> <br><br>
-      <img style = " width:150px; height:150px;" src="images/1-min.png" alt="PoC-1">
-      <img style = "width:150px; height:150px;" src="images/2-min.png"  alt="PoC-2">
-      <img  style = " width:150px; height:150px;" src="images/3-min.png"  alt="PoC-3">
-      <img  style = " width:150px; height:150px;" src="images/4-min.png"  alt="PoC-4">
-      <img  style = " width:150px; height:150px;" src="images/5-min.png" alt="PoC-5">
+      <img style = " width:150px; height:150px;" src="images/1.png" alt="PoC-1">
+      <img style = "width:150px; height:150px;" src="images/2.png"  alt="PoC-2">
+      <img  style = " width:150px; height:150px;" src="images/3.png"  alt="PoC-3">
+      <img  style = " width:150px; height:150px;" src="images/4.png"  alt="PoC-4">
+      <img  style = " width:150px; height:150px;" src="images/5.png" alt="PoC-5">
 <br>
 <br>
 <br>
