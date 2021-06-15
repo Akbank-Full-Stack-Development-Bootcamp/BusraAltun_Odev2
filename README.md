@@ -95,5 +95,7 @@ border-radius: 50px;
 </div>
 <br>
 <h2 style = "font-family:courier,arial,helvetica;">C. Middleware Ödevi </h2>
-<p> Bu ödevin çalışması tamamlanınca yüklenecektir.
+<p> Middleware için bir pdf çalışması oluşturuldu. Dolayısıyla Middleware klasörünün içerisine girdikten sonra çalışmaya erişmek için download edilmesi gerekmektedir. Yine de çalışmaya aşağıdaki link üzerinden ulaşabilirsiniz.
 </p
+<a target="blank" href="https://drive.google.com/file/d/1egwcFQD8v_iTyWW-R4XtgFmphrQTmxpk/view?usp=sharing" >
+</a>
