@@ -95,7 +95,20 @@ border-radius: 50px;
 </div>
 <br>
 <h2 style = "font-family:courier,arial,helvetica;">C. Middleware Ödevi </h2>
-<p> Middleware için bir pdf çalışması oluşturuldu. Dolayısıyla Middleware klasörünün içerisine girdikten sonra çalışmaya erişmek için download edilmesi gerekmektedir. Yine de çalışmaya aşağıdaki link üzerinden ulaşabilirsiniz.
-</p
+
+
+
+<div>
+<p>Middleware için bir pdf çalışması oluşturuldu. Dolayısıyla Middleware klasörünün içerisine girdikten sonra çalışmaya erişmek için download edilmesi gerekmektedir. Yine de çalışmaya aşağıdaki link üzerinden ulaşabilirsiniz.</p>
 <a target="blank" href="https://drive.google.com/file/d/1egwcFQD8v_iTyWW-R4XtgFmphrQTmxpk/view?usp=sharing" >
-</a>
+
+<button  style="
+background-color:purple;border:1px solid white;
+margin-top : 3%; margin-left : 30%;
+width:103px;
+height:103px;
+border-radius: 50px;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;">Pdf<button>
+ </a>
+ </div>
